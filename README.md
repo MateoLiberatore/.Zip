@@ -1,3 +1,5 @@
 # .Zip
 
-Enter the corresponding file path at the input to compress the file
+run pyhton3 zip.py
+
+Enter the corresponding file path to compress the file or folder 
